@@ -2,9 +2,6 @@
 
 An interactive **Power BI Dashboard** designed to analyze workforce demographics, department distributions, compensation, and key attrition (turnover) drivers. This dashboard integrates data visualization and exploratory analysis to deliver actionable human resource insights that support employee retention, workforce planning, and organizational development.
 
-Developed by: **Aryan Raj**  
-*B.Tech CSE Data Science | University of Petroleum and Energy Studies (UPES), Dehradun*
-
 ---
 
 ## 📌 Project Overview
