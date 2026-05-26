@@ -37,7 +37,7 @@ The dashboard provides a unified view structured around key HR metrics:
 *   **Salary vs. Turnover Rate by Job Level (Combo Chart)**: Analyzes how monthly income relates to job level and attrition, highlighting if lower compensation levels correlate with higher turnover rates.
 
 🖼️ *Dashboard Visual:*
-![HR Analytics Dashboard Overview](assets/pg1.png)
+![HR Analytics Dashboard Overview](assets/hr_analytics_dashboard.png)
 
 ---
 
@@ -53,7 +53,7 @@ The dashboard provides a unified view structured around key HR metrics:
 ```directory
 .
 ├── assets/                          # Dashboard screenshots and visuals (PNG)
-│   └── pg1.png                      # Main HR Analytics Dashboard page view
+│   └── hr_analytics_dashboard.png   # Main HR Analytics Dashboard page view
 ├── HR_Analytics.pbix                # Power BI Desktop source file
 └── README.md                        # Project documentation (this file)
 ```
